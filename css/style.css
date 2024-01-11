@@ -1,0 +1,26 @@
+.section-first{
+    background-color: #2E2F42;
+}
+.section-second{
+    background-color:#F4F4FD ;
+
+}
+.section-third{
+    background-color: #F4F4FD;
+}
+
+.header{
+    background-color: #E7E9FC;
+
+}
+.logo{
+    font-size: 18px;
+font-family: Raleway;
+font-weight: 700;
+}
+.link{
+    color: #2E2F42;
+font-size: 16px;
+font-family: Roboto;
+font-weight: 500;
+}
